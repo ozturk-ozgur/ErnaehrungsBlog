@@ -251,11 +251,22 @@ form {
   left: 50%;
 }
 
+form #email-input {
+  height: 35px;
+}
+
 #submit {
-  margin-top: 15px;
-  border-radius: 5px;
+  margin-top: 35px;
+  border-radius: 10px;
   font-size: 18px;
-  padding: 5px;
+  padding: 10px 20px;
+  background-color: #feb139;
+  color: #103256;
+}
+
+#submit:hover {
+  background-color: #cf9537;
+
 }
 
 .footer {
