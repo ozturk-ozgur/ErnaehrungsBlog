@@ -253,6 +253,7 @@ form {
 
 form #email-input {
   height: 35px;
+  border-radius: 10px;
 }
 
 #submit {
